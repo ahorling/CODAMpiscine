@@ -1,0 +1,13 @@
+things that throw an error:
+
+"MAP ERROR"
+	if the first line isn't the code.
+	if the array code has a negative number
+	if the array code is equal to 0
+	if the provided code isn't a square
+	if there are multiple code strings
+	if the provided map is one line, only obstacle characters
+	if the file fails to open correctly
+
+"INPUT ERROR"
+	no map provided? (argc = 1) // "your program must be able to read on the standard input" ???????

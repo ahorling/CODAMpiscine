@@ -1,0 +1,12 @@
+Credentials cache: API:77554
+        Principal: ahorling@CODAM.NL
+    Cache version: 0
+
+Server: krbtgt/CODAM.NL@CODAM.NL
+Client: ahorling@CODAM.NL
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 313
+Auth time:  Sep  7 16:03:23 2020
+End time:   Sep  9 16:03:14 2020
+Ticket flags: enc-pa-rep, pre-authent, initial, proxiable, forwardable
+Addresses: addressless
